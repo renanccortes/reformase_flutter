@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # reformeseflutter
 
 A new Flutter application.
@@ -16,9 +17,14 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 =======
+=======
+>>>>>>> 9ed906b1ed3022a4dbed57b3742ff41a47932b11
 # reformase_flutter
 Projeto Reforme-se, Front End em Flutter.
 
 Projeto baseado no protótipo desenhado por Kaio Cezar, e pode ser encontrado aqui: https://medium.com/@kaiocezar77/projeto-de-ux-reforme-se-3e6b23ea45ee.
  
+<<<<<<< HEAD
+>>>>>>> 9ed906b1ed3022a4dbed57b3742ff41a47932b11
+=======
 >>>>>>> 9ed906b1ed3022a4dbed57b3742ff41a47932b11
